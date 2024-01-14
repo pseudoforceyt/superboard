@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Setup wizard resources -->
-    <string name="wizard_welcome">Welcome to %s setup wizard!</string>
-    <string name="wizard_nextbtn">Next</string>
-    <string name="wizard_enable">Enable keyboard from settings</string>
-    <string name="wizard_enablebtn">Open system settings</string>
-    <string name="wizard_select">Select %s as your default keyboard</string>
-    <string name="wizard_selectbtn">Open keyboard selection popup</string>
-    <string name="wizard_settings">Customize your keyboard</string>
-    <string name="wizard_settingsbtn">Open keyboard settings</string>
-    <string name="wizard_finish">Congratulations, you are completed setup wizard!</string>
-    <string name="wizard_finishbtn">Finish</string>
-    <string name="keyboard_theme_api_perm_label">FBoard User Theme API Access</string>
+    <string name="wizard_welcome">Xoş gəldiniz %s quraşdırma siyahısına!</string>
+    <string name="wizard_nextbtn">Növbəti</string>
+    <string name="wizard_enable">Parametrlərdən klaviaturanı aktiv edin</string>
+    <string name="wizard_enablebtn">Sistem parametrlərini açın</string>
+    <string name="wizard_select">Defolt klaviatura olaraq %s seçin</string>
+    <string name="wizard_selectbtn">Klaviatura seçimi açın</string>
+    <string name="wizard_settings">Klaviaturanızı fərdiləşdirin</string>
+    <string name="wizard_settingsbtn">Klaviatura parametrlərini açın</string>
+    <string name="wizard_finish">Təbriklər, Siz quraşdırma siyahısını başa çatırdınız!</string>
+    <string name="wizard_finishbtn">Bitdi</string>
+    <string name="keyboard_theme_api_perm_label">FBoard İstifadəçi Mövzusu API Girişi</string>
     <!-- Settings resources -->
-    <string name="settings_activity">Settings</string>
-    <string name="settings_keyboard_bgimg" tools:keep="@string/settings_keyboard_bgimg">Keyboard background image</string>
-    <string name="settings_keyboard_show_popup" tools:keep="@string/settings_keyboard_show_popup">Show character while typing</string>
-    <string name="settings_colorize_navbar" tools:keep="@string/settings_colorize_navbar">Use transparent background at navbar</string>
-    <string name="settings_colorize_navbar_alt" tools:keep="@string/settings_colorize_navbar_alt">Apply color to navbar (Android 9+)</string>
-    <string name="settings_disable_popup" tools:keep="@string/settings_disable_popup">Disable popup menu</string>
-    <string name="settings_disable_repeat" tools:keep="@string/settings_disable_repeat">Disable character repeating on long press</string>
-    <string name="settings_disable_top_bar" tools:keep="@string/settings_disable_top_bar">Disable top bar</string>
+    <string name="settings_activity">Parametrlər</string>
+    <string name="settings_keyboard_bgimg" tools:keep="@string/settings_keyboard_bgimg">Klaviatura arxa fon şəkli</string>
+    <string name="settings_keyboard_show_popup" tools:keep="@string/settings_keyboard_show_popup">Yazarkən xarakterləri göstərin</string>
+    <string name="settings_colorize_navbar" tools:keep="@string/settings_colorize_navbar">Navbarda şəffaf fondan istifadə edin</string>
+    <string name="settings_colorize_navbar_alt" tools:keep="@string/settings_colorize_navbar_alt">Navbara rəng tətbiq edin (Android 9+)</string>
+    <string name="settings_disable_popup" tools:keep="@string/settings_disable_popup">Açılan menyunu söndürün</string>
+    <string name="settings_disable_repeat" tools:keep="@string/settings_disable_repeat">Uzun basdıqda simvolların təkrarlanmasını söndürün</string>
+    <string name="settings_disable_top_bar" tools:keep="@string/settings_disable_top_bar">Üst çubuğu deaktiv edin</string>
     <string name="settings_hide_top_bar_fn_buttons" tools:keep="@string/settings_hide_top_bar_fn_buttons">Hide top bar function buttons</string>
     <string name="settings_enable_clipboard" tools:keep="@string/settings_enable_clipboard">Enable clipboard</string>
     <string name="settings_disable_suggestions" tools:keep="@string/settings_disable_suggestions">Disable word suggestions</string>
