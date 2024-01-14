@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Setup wizard resources -->
-    <string name="wizard_welcome">%s நிருவுகை வழிகட்டிக்கு வரவேற்கிறோம்!</string>
-    <string name="wizard_nextbtn">Next</string>
-    <string name="wizard_enable">Enable keyboard from settings</string>
-    <string name="wizard_enablebtn">Open system settings</string>
-    <string name="wizard_select">Select %s as your default keyboard</string>
-    <string name="wizard_selectbtn">Open keyboard selection popup</string>
-    <string name="wizard_settings">Customize your keyboard</string>
-    <string name="wizard_settingsbtn">Open keyboard settings</string>
-    <string name="wizard_finish">Congratulations, you are completed setup wizard!</string>
-    <string name="wizard_finishbtn">Finish</string>
-    <string name="keyboard_theme_api_perm_label">FBoard User Theme API Access</string>
+    <string name="wizard_welcome">%s அமைவு வழிகாட்டிக்கு வரவேற்கிறோம்!</string>
+    <string name="wizard_nextbtn">அடுத்து</string>
+    <string name="wizard_enable">இந்தக் கீபோர்டடை அமைப்புகளில் இயலுமைப்படுத்தவும்</string>
+    <string name="wizard_enablebtn">சிஸ்டம் அமைப்புகளைத் திற</string>
+    <string name="wizard_select">%s ஐ இயல்புநிலை கீபோர்டாகத் தேர்ந்தெடுக்கவும்</string>
+    <string name="wizard_selectbtn">தட்டச்சு தேர்வுத் திரையைத் திற</string>
+    <string name="wizard_settings">கீபோர்டை தனிப்பயனாக்குக</string>
+    <string name="wizard_settingsbtn">கீபோர்ட் அமைப்பு திரையைத் திற</string>
+    <string name="wizard_finish">அமைப்பு முறை முடிந்தது!</string>
+    <string name="wizard_finishbtn">பூர்த்தி செய்</string>
+    <string name="keyboard_theme_api_perm_label">FBoard பயனாளர் தீம் API அணுகல்</string>
     <!-- Settings resources -->
-    <string name="settings_activity">Settings</string>
-    <string name="settings_keyboard_bgimg" tools:keep="@string/settings_keyboard_bgimg">Keyboard background image</string>
-    <string name="settings_keyboard_show_popup" tools:keep="@string/settings_keyboard_show_popup">Show character while typing</string>
-    <string name="settings_colorize_navbar" tools:keep="@string/settings_colorize_navbar">Use transparent background at navbar</string>
-    <string name="settings_colorize_navbar_alt" tools:keep="@string/settings_colorize_navbar_alt">Apply color to navbar (Android 9+)</string>
-    <string name="settings_disable_popup" tools:keep="@string/settings_disable_popup">Disable popup menu</string>
-    <string name="settings_disable_repeat" tools:keep="@string/settings_disable_repeat">Disable character repeating on long press</string>
-    <string name="settings_disable_top_bar" tools:keep="@string/settings_disable_top_bar">Disable top bar</string>
-    <string name="settings_hide_top_bar_fn_buttons" tools:keep="@string/settings_hide_top_bar_fn_buttons">Hide top bar function buttons</string>
-    <string name="settings_enable_clipboard" tools:keep="@string/settings_enable_clipboard">Enable clipboard</string>
-    <string name="settings_disable_suggestions" tools:keep="@string/settings_disable_suggestions">Disable word suggestions</string>
-    <string name="settings_disable_number_row" tools:keep="@string/settings_disable_number_row">Disable number row (beta)</string>
+    <string name="settings_activity">அமைப்புகள்</string>
+    <string name="settings_keyboard_bgimg" tools:keep="@string/settings_keyboard_bgimg">கீபோர்ட் பின்னணி படம்</string>
+    <string name="settings_keyboard_show_popup" tools:keep="@string/settings_keyboard_show_popup">தட்டச்சு செய்யும்போது எழுத்தைக் காண்பி</string>
+    <string name="settings_colorize_navbar" tools:keep="@string/settings_colorize_navbar">Navbarல் வெளிப்படை பின்னணியைப் பயன்படுத்து</string>
+    <string name="settings_colorize_navbar_alt" tools:keep="@string/settings_colorize_navbar_alt">Navbarஐ வண்ணமயமாக்கு (அண்ட்ராய்டு 9+)</string>
+    <string name="settings_disable_popup" tools:keep="@string/settings_disable_popup">பாப்பப் திறையை முடக்கு</string>
+    <string name="settings_disable_repeat" tools:keep="@string/settings_disable_repeat">அழுத்திப் பிடித்துருக்கும்போது எழுத்தைப் பலமுறை உள்ளிட வேண்டாம்</string>
+    <string name="settings_disable_top_bar" tools:keep="@string/settings_disable_top_bar">மேல் பட்டையை முடக்கு</string>
+    <string name="settings_hide_top_bar_fn_buttons" tools:keep="@string/settings_hide_top_bar_fn_buttons">மேல் பட்டையின் function பொத்தான்களை மறை</string>
+    <string name="settings_enable_clipboard" tools:keep="@string/settings_enable_clipboard">கிளிப்போர்டை பயன்படுத்து</string>
+    <string name="settings_disable_suggestions" tools:keep="@string/settings_disable_suggestions">சொற்களைப் பரிந்துரைக்க வேண்டாம்</string>
+    <string name="settings_disable_number_row" tools:keep="@string/settings_disable_number_row">எண்கள் வரிசையை முடக்கு (beta)</string>
     <string name="settings_enable_popup_preview" tools:keep="@string/settings_enable_popup_preview">Show long press action or popup first character on key</string>
     <string name="settings_use_monet" tools:keep="@string/settings_use_monet">Use monet colors (beta)</string>
     <string name="settings_detect_capslock" tools:keep="@string/settings_detect_capslock">Detect capslock status automatically</string>
