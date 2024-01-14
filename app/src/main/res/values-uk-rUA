@@ -7,10 +7,10 @@
     <string name="wizard_enablebtn">Відкрити системні налаштування</string>
     <string name="wizard_select">Оберіть %s як клавіатуру за замовчуванням</string>
     <string name="wizard_selectbtn">Відкрити спливаюче меню вибору клавіатури</string>
-    <string name="wizard_settings">Customize your keyboard</string>
-    <string name="wizard_settingsbtn">Open keyboard settings</string>
-    <string name="wizard_finish">Congratulations, you are completed setup wizard!</string>
-    <string name="wizard_finishbtn">Finish</string>
+    <string name="wizard_settings">Налаштуйте свою клавіатуру</string>
+    <string name="wizard_settingsbtn">Відкрити налаштування клавіатури</string>
+    <string name="wizard_finish">Вітаємо, майстер встановлення завершено!</string>
+    <string name="wizard_finishbtn">Готово</string>
     <string name="keyboard_theme_api_perm_label">FBoard User Theme API Access</string>
     <!-- Settings resources -->
     <string name="settings_activity">Settings</string>
