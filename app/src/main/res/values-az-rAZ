@@ -124,17 +124,17 @@
         <item>Təkmil Mövzu</item>
     </string-array>
     <string-array name="settings_key_bg_type" tools:keep="@array/settings_key_bg_type">
-        <item>Flat</item>
-        <item>Gradient</item>
+        <item>Düz</item>
+        <item>Qradient</item>
     </string-array>
     <string-array name="settings_key_gradient_orientation" tools:keep="@array/settings_key_gradient_orientation">
-        <item>Top → bottom</item>
-        <item>Bottom → top</item>
-        <item>Left → right</item>
-        <item>Right → left</item>
-        <item>Top left → bottom right</item>
-        <item>Top right → bottom left</item>
-        <item>Bottom left → top right</item>
-        <item>Bottom right → top left</item>
+        <item>Üst → aşağı</item>
+        <item>Aşağı → yuxarı</item>
+        <item>Sol → sağ</item>
+        <item>Sağ → sol</item>
+        <item>Yuxarı sol → aşağı sağ</item>
+        <item>Yuxarı sağ → aşağı sol</item>
+        <item>Aşağı sol → yuxarı sağ</item>
+        <item>Aşağı sağ → yuxarı sol</item>
     </string-array>
 </resources>
