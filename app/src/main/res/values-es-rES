@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Setup wizard resources -->
-    <string name="wizard_welcome">Welcome to %s setup wizard!</string>
-    <string name="wizard_nextbtn">Next</string>
-    <string name="wizard_enable">Enable keyboard from settings</string>
-    <string name="wizard_enablebtn">Open system settings</string>
-    <string name="wizard_select">Select %s as your default keyboard</string>
-    <string name="wizard_selectbtn">Open keyboard selection popup</string>
-    <string name="wizard_settings">Customize your keyboard</string>
-    <string name="wizard_settingsbtn">Open keyboard settings</string>
-    <string name="wizard_finish">Congratulations, you are completed setup wizard!</string>
-    <string name="wizard_finishbtn">Finish</string>
-    <string name="keyboard_theme_api_perm_label">FBoard User Theme API Access</string>
+    <string name="wizard_welcome">¡Le damos la bienvenida al asistente de configuración de %s!</string>
+    <string name="wizard_nextbtn">Siguiente</string>
+    <string name="wizard_enable">Active el teclado desde la configuración</string>
+    <string name="wizard_enablebtn">Abrir ajustes del sistema</string>
+    <string name="wizard_select">Seleccionar %s como su teclado predeterminado</string>
+    <string name="wizard_selectbtn">Abrir cuadro de selección de teclado</string>
+    <string name="wizard_settings">Personalizar teclado</string>
+    <string name="wizard_settingsbtn">Abrir configuración del teclado</string>
+    <string name="wizard_finish">Felicidades, ¡completaste el asistente de configuración!</string>
+    <string name="wizard_finishbtn">Finalizar</string>
+    <string name="keyboard_theme_api_perm_label">Acceso a la API de temas del usuario de FBoard</string>
     <!-- Settings resources -->
-    <string name="settings_activity">Settings</string>
-    <string name="settings_keyboard_bgimg" tools:keep="@string/settings_keyboard_bgimg">Keyboard background image</string>
-    <string name="settings_keyboard_show_popup" tools:keep="@string/settings_keyboard_show_popup">Show character while typing</string>
-    <string name="settings_colorize_navbar" tools:keep="@string/settings_colorize_navbar">Use transparent background at navbar</string>
-    <string name="settings_colorize_navbar_alt" tools:keep="@string/settings_colorize_navbar_alt">Apply color to navbar (Android 9+)</string>
-    <string name="settings_disable_popup" tools:keep="@string/settings_disable_popup">Disable popup menu</string>
-    <string name="settings_disable_repeat" tools:keep="@string/settings_disable_repeat">Disable character repeating on long press</string>
-    <string name="settings_disable_top_bar" tools:keep="@string/settings_disable_top_bar">Disable top bar</string>
-    <string name="settings_hide_top_bar_fn_buttons" tools:keep="@string/settings_hide_top_bar_fn_buttons">Hide top bar function buttons</string>
-    <string name="settings_enable_clipboard" tools:keep="@string/settings_enable_clipboard">Enable clipboard</string>
-    <string name="settings_disable_suggestions" tools:keep="@string/settings_disable_suggestions">Disable word suggestions</string>
-    <string name="settings_disable_number_row" tools:keep="@string/settings_disable_number_row">Disable number row (beta)</string>
+    <string name="settings_activity">Ajustes</string>
+    <string name="settings_keyboard_bgimg" tools:keep="@string/settings_keyboard_bgimg">Imagen de fondo del teclado</string>
+    <string name="settings_keyboard_show_popup" tools:keep="@string/settings_keyboard_show_popup">Mostrar caracter mientras escribe</string>
+    <string name="settings_colorize_navbar" tools:keep="@string/settings_colorize_navbar">Usar un fondo transparente para la barra de navegación</string>
+    <string name="settings_colorize_navbar_alt" tools:keep="@string/settings_colorize_navbar_alt">Aplicar color a la barra de navegación (Android 9+)</string>
+    <string name="settings_disable_popup" tools:keep="@string/settings_disable_popup">Deshabilitar menú emergente</string>
+    <string name="settings_disable_repeat" tools:keep="@string/settings_disable_repeat">Deshabilitar repetición de caracteres al presionar contínuamente</string>
+    <string name="settings_disable_top_bar" tools:keep="@string/settings_disable_top_bar">Desactivar la barra superior</string>
+    <string name="settings_hide_top_bar_fn_buttons" tools:keep="@string/settings_hide_top_bar_fn_buttons">Ocultar botones de función de la barra superior</string>
+    <string name="settings_enable_clipboard" tools:keep="@string/settings_enable_clipboard">Habilitar portapapeles</string>
+    <string name="settings_disable_suggestions" tools:keep="@string/settings_disable_suggestions">Deshabilitar palabras sugeridas</string>
+    <string name="settings_disable_number_row" tools:keep="@string/settings_disable_number_row">Desactivar fila de números (beta)</string>
     <string name="settings_enable_popup_preview" tools:keep="@string/settings_enable_popup_preview">Show long press action or popup first character on key</string>
     <string name="settings_use_monet" tools:keep="@string/settings_use_monet">Use monet colors (beta)</string>
     <string name="settings_detect_capslock" tools:keep="@string/settings_detect_capslock">Detect capslock status automatically</string>
