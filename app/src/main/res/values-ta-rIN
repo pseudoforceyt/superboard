@@ -32,29 +32,29 @@
     <string name="settings_enter_bgclr" tools:keep="@string/settings_enter_bgclr">எழுத்தின் பின்னணி நிறத்தை உள்ளிடவும்</string>
     <string name="settings_enter_press_bgclr" tools:keep="@string/settings_enter_press_bgclr">அழுத்திய எழுத்தின் பின்னணி நிறத்தை உள்ளிடவும்</string>
     <string name="settings_key_shadowclr" tools:keep="@string/settings_key_shadowclr">எழுத்தின் நிழல் நிறம்</string>
-    <string name="settings_key_bgclr" tools:keep="@string/settings_key_bgclr">First key background color</string>
-    <string name="settings_key2_bgclr" tools:keep="@string/settings_key2_bgclr">Second key background color</string>
-    <string name="settings_key_press_bgclr" tools:keep="@string/settings_key_press_bgclr">First key press background color</string>
-    <string name="settings_key2_press_bgclr" tools:keep="@string/settings_key2_press_bgclr">Second key press background color</string>
-    <string name="settings_keyboard_bgclr" tools:keep="@string/settings_keyboard_bgclr">Keyboard background color</string>
-    <string name="settings_key_textclr" tools:keep="@string/settings_key_textclr">Key text color</string>
-    <string name="settings_play_snd_press" tools:keep="@string/settings_play_snd_press">Play sound on key press events</string>
-    <string name="settings_keyboard_kill_background" tools:keep="@string/settings_keyboard_kill_background">Reduce RAM usage (increases init delay)</string>
+    <string name="settings_key_bgclr" tools:keep="@string/settings_key_bgclr">முதல் எழுத்தின் பின்னணி நிறம்</string>
+    <string name="settings_key2_bgclr" tools:keep="@string/settings_key2_bgclr">இரண்டாம் எழுத்தின் பின்னணி நிறம்</string>
+    <string name="settings_key_press_bgclr" tools:keep="@string/settings_key_press_bgclr">அழுத்திய முதல் எழுத்தின் பின்னணி நிறம்</string>
+    <string name="settings_key2_press_bgclr" tools:keep="@string/settings_key2_press_bgclr">இரண்டாம் எழுத்தின் அழுத்திய பின்னணி நிறம்</string>
+    <string name="settings_keyboard_bgclr" tools:keep="@string/settings_keyboard_bgclr">கீபோர்ட் பின்னணி நிறம்</string>
+    <string name="settings_key_textclr" tools:keep="@string/settings_key_textclr">எழுத்து உரை நிறம்</string>
+    <string name="settings_play_snd_press" tools:keep="@string/settings_play_snd_press">எழுத்தை அழுத்தினால் ஒலி எழுப்பு</string>
+    <string name="settings_keyboard_kill_background" tools:keep="@string/settings_keyboard_kill_background">RAM பயன்பாட்டைக் குறை (தொடக்க நேரத்தை அதிகரிக்கும்)</string>
     <string name="settings_use_first_popup_character" tools:keep="@string/settings_use_first_popup_character">Use first popup character at long press (you must enable the popup menu)</string>
     <!-- Color selector layout resources -->
     <!-- Image selector resources -->
-    <string name="settings_image_selector_photo" tools:keep="@string/settings_image_selector_photo">Photo</string>
-    <string name="settings_image_selector_gradient" tools:keep="@string/settings_image_selector_gradient">Gradient</string>
-    <string name="settings_image_selector_gradient_item" tools:keep="@string/settings_image_selector_gradient_item">Color</string>
-    <string name="settings_image_selector_gradient_add_item" tools:keep="@string/settings_image_selector_gradient_add_item">Add color</string>
-    <string name="settings_image_selector_gradient_add_item_error" tools:keep="@string/settings_image_selector_gradient_add_item_error">Oops! Max limit is %s</string>
-    <string name="settings_image_selector_gradient_remove_item_error" tools:keep="@string/settings_image_selector_gradient_remove_item_error">Oops! Min limit is %s</string>
-    <string name="settings_image_selector_gradient_change_orientation" tools:keep="@string/settings_image_selector_gradient_change_orientation">Change orientation</string>
-    <string name="settings_image_selector_select" tools:keep="@string/settings_image_selector_select">Select image</string>
-    <string name="settings_image_selector_wp" tools:keep="@string/settings_image_selector_wp">Get wallpaper</string>
-    <string name="settings_image_selector_rotate" tools:keep="@string/settings_image_selector_rotate">Rotate</string>
+    <string name="settings_image_selector_photo" tools:keep="@string/settings_image_selector_photo">புகைப்படம்</string>
+    <string name="settings_image_selector_gradient" tools:keep="@string/settings_image_selector_gradient">க்ரேடியன்ட்</string>
+    <string name="settings_image_selector_gradient_item" tools:keep="@string/settings_image_selector_gradient_item">நிறம்</string>
+    <string name="settings_image_selector_gradient_add_item" tools:keep="@string/settings_image_selector_gradient_add_item">நிறம் சேர்</string>
+    <string name="settings_image_selector_gradient_add_item_error" tools:keep="@string/settings_image_selector_gradient_add_item_error">அதிகபட்சம் %s நிறங்கள் மட்டுமே</string>
+    <string name="settings_image_selector_gradient_remove_item_error" tools:keep="@string/settings_image_selector_gradient_remove_item_error">குறைந்தபட்சம் %s நிறங்கள் தேவை</string>
+    <string name="settings_image_selector_gradient_change_orientation" tools:keep="@string/settings_image_selector_gradient_change_orientation">நோக்குநிலையை மாற்று</string>
+    <string name="settings_image_selector_select" tools:keep="@string/settings_image_selector_select">படத்தைத் தேர்ந்தெடு</string>
+    <string name="settings_image_selector_wp" tools:keep="@string/settings_image_selector_wp">வால்பப்பெரை எடுத்துக்கொள்</string>
+    <string name="settings_image_selector_rotate" tools:keep="@string/settings_image_selector_rotate">சுழற்று</string>
     <!-- Radio selector resources -->
-    <string name="settings_keyboard_lang_select" tools:keep="@string/settings_keyboard_lang_select">Keyboard language</string>
+    <string name="settings_keyboard_lang_select" tools:keep="@string/settings_keyboard_lang_select">கீபோர்ட் மொழி</string>
     <string name="settings_keyboard_texttype_select" tools:keep="@string/settings_keyboard_texttype_select">Keyboard font</string>
     <string name="settings_keyboard_theme_preset" tools:keep="@string/settings_keyboard_theme_preset">Keyboard theme</string>
     <string name="settings_keyboard_icon_theme" tools:keep="@string/settings_keyboard_icon_theme">Icon theme</string>
