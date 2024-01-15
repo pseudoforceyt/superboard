@@ -40,7 +40,7 @@
     <string name="settings_key_textclr" tools:keep="@string/settings_key_textclr">விசையின் எழுத்து நிறம்</string>
     <string name="settings_play_snd_press" tools:keep="@string/settings_play_snd_press">விசையை அழுத்தினால் ஒலி எழுப்பு</string>
     <string name="settings_keyboard_kill_background" tools:keep="@string/settings_keyboard_kill_background">RAM பயன்பாட்டைக் குறை (தொடக்க நேரத்தை அதிகரிக்கும்)</string>
-    <string name="settings_use_first_popup_character" tools:keep="@string/settings_use_first_popup_character">Use first popup character at long press (you must enable the popup menu)</string>
+    <string name="settings_use_first_popup_character" tools:keep="@string/settings_use_first_popup_character">அழுத்திப் பிடித்தால் முதல் பாப்பப் எழுத்தை உள்ளிடு (பாப்பப் திறை தேவை)</string>
     <!-- Color selector layout resources -->
     <!-- Image selector resources -->
     <string name="settings_image_selector_photo" tools:keep="@string/settings_image_selector_photo">புகைப்படம்</string>
@@ -66,7 +66,7 @@
     <string name="settings_key_vibrate_duration" tools:keep="@string/settings_key_vibrate_duration">விசை அழுத்தல் அதிர்வுறு நேரம்</string>
     <string name="settings_keyboard_height" tools:keep="@string/settings_keyboard_height">விசைப்பலகை உயரம்</string>
     <string name="settings_key_longpress_duration" tools:keep="@string/settings_key_longpress_duration">அழுத்திப் பிடித்திருக்கும் அவகாசப் பெருக்கி</string>
-    <string name="settings_key_padding" tools:keep="@string/settings_key_padding">Key padding</string>
+    <string name="settings_key_padding" tools:keep="@string/settings_key_padding">விசை இடைவெளி</string>
     <string name="settings_key_radius" tools:keep="@string/settings_key_radius">விசை ஆரம்</string>
     <string name="settings_key_textsize" tools:keep="@string/settings_key_textsize">விசையின் எழுத்துரு அளவு</string>
     <string name="settings_key_shadowsize" tools:keep="@string/settings_key_shadowsize">விசை நிழல் அளவு</string>
