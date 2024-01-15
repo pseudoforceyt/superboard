@@ -17,15 +17,15 @@
     <string name="settings_keyboard_bgimg" tools:keep="@string/settings_keyboard_bgimg">விசைப்பலகை பின்னணி புகைப்படம்</string>
     <string name="settings_keyboard_show_popup" tools:keep="@string/settings_keyboard_show_popup">தட்டச்சு செய்யும்போது எழுத்தைக் காண்பி</string>
     <string name="settings_colorize_navbar" tools:keep="@string/settings_colorize_navbar">Navbarல் வெளிப்படையான பின்னணியைப் பயன்படுத்து</string>
-    <string name="settings_colorize_navbar_alt" tools:keep="@string/settings_colorize_navbar_alt">Navbarஐ வண்ணமயமாக்கு (அண்ட்ராய்டு 9+)</string>
+    <string name="settings_colorize_navbar_alt" tools:keep="@string/settings_colorize_navbar_alt">Navbarக்கு நிறமூட்டு (அண்ட்ராய்டு 9+)</string>
     <string name="settings_disable_popup" tools:keep="@string/settings_disable_popup">பாப்பப் திறையை முடக்கு</string>
-    <string name="settings_disable_repeat" tools:keep="@string/settings_disable_repeat">அழுத்திப் பிடித்துருக்கும்போது எழுத்தைப் பலமுறை உள்ளிட வேண்டாம்</string>
+    <string name="settings_disable_repeat" tools:keep="@string/settings_disable_repeat">அழுத்திப் பிடித்தால் எழுத்தைப் பலமுறை உள்ளிட வேண்டாம்</string>
     <string name="settings_disable_top_bar" tools:keep="@string/settings_disable_top_bar">மேல் பட்டையை முடக்கு</string>
     <string name="settings_hide_top_bar_fn_buttons" tools:keep="@string/settings_hide_top_bar_fn_buttons">மேல் பட்டையின் function பொத்தான்களை மறை</string>
     <string name="settings_enable_clipboard" tools:keep="@string/settings_enable_clipboard">கிளிப்போர்டை பயன்படுத்து</string>
     <string name="settings_disable_suggestions" tools:keep="@string/settings_disable_suggestions">சொற்களைப் பரிந்துரைக்க வேண்டாம்</string>
     <string name="settings_disable_number_row" tools:keep="@string/settings_disable_number_row">எண்கள் வரிசையை முடக்கு (beta)</string>
-    <string name="settings_enable_popup_preview" tools:keep="@string/settings_enable_popup_preview">Show long press action or popup first character on key</string>
+    <string name="settings_enable_popup_preview" tools:keep="@string/settings_enable_popup_preview">அழுத்திப் பிடித்தால் செயலை அல்லது முதல் எழுத்தைக் காண்பி</string>
     <string name="settings_use_monet" tools:keep="@string/settings_use_monet">மோனெட் நிறங்களைப் பயன்படுத்து (beta)</string>
     <string name="settings_detect_capslock" tools:keep="@string/settings_detect_capslock">கேப்ஸ்லாக் நிலையைத் தானாக அறிந்துகொள்</string>
     <string name="settings_keyboard_lc_on_emoji" tools:keep="@string/settings_keyboard_lc_on_emoji">இமோஜி பொத்தானை அழுத்திப் பிடித்தால் மொழியை மாற்று</string>
@@ -44,7 +44,7 @@
     <!-- Color selector layout resources -->
     <!-- Image selector resources -->
     <string name="settings_image_selector_photo" tools:keep="@string/settings_image_selector_photo">புகைப்படம்</string>
-    <string name="settings_image_selector_gradient" tools:keep="@string/settings_image_selector_gradient">க்ரேடியன்ட்</string>
+    <string name="settings_image_selector_gradient" tools:keep="@string/settings_image_selector_gradient">கிரேடியன்ட்</string>
     <string name="settings_image_selector_gradient_item" tools:keep="@string/settings_image_selector_gradient_item">நிறம்</string>
     <string name="settings_image_selector_gradient_add_item" tools:keep="@string/settings_image_selector_gradient_add_item">நிறம் சேர்</string>
     <string name="settings_image_selector_gradient_add_item_error" tools:keep="@string/settings_image_selector_gradient_add_item_error">அதிகபட்சம் %s நிறங்கள் மட்டுமே</string>
@@ -104,7 +104,7 @@
         <item>தடிமனான சம இடைவெளி செரிஃப்</item>
         <item>சாய்வான சம இடைவெளி செரிஃப்</item>
         <item>சாய்வான தடிமனான சம இடைவெளி செரிஃப்</item>
-        <item>Custom (in app data folder)</item>
+        <item>விரும்பிய வகை (ஆப் டேட்டா ஃபோல்டரில்)</item>
     </string-array>
     <string-array name="settings_keyboard_icon_theme" tools:keep="@array/settings_keyboard_icon_theme">
         <item>இயல்புநிலை</item>
