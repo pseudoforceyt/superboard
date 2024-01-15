@@ -87,54 +87,54 @@
         <item>வழக்கமான</item>
         <item>தடிமன்</item>
         <item>சாய்வு</item>
-        <item>தடித்த சாய்வு</item>
+        <item>தடிமனான சாய்வு</item>
         <item>சுருக்கப்பெற்ற</item>
         <item>சுருக்கப்பெற்ற தடிமனான</item>
         <item>சுருக்கப்பெற்ற சாய்வு</item>
         <item>சுருக்கப்பெற்ற தடிமனான சாய்வு</item>
-        <item>Serif</item>
-        <item>Serif Bold</item>
-        <item>Serif Italic</item>
-        <item>Serif Bold Italic</item>
-        <item>Monospace</item>
-        <item>Monospace Bold</item>
-        <item>Monospace Italic</item>
-        <item>Monospace Bold Italic</item>
-        <item>Serif Monospace</item>
-        <item>Serif Monospace Bold</item>
-        <item>Serif Monospace Italic</item>
-        <item>Serif Monospace Bold Italic</item>
+        <item>செரிஃப்</item>
+        <item>தடிமனான செரிஃப்</item>
+        <item>சாய்வான செரிஃப்</item>
+        <item>தடிமனான சாய்வான செரிஃப்</item>
+        <item>சம இடைவெளி</item>
+        <item>தடிமனான சம இடைவெளி</item>
+        <item>சாய்வான சம இடைவெளி</item>
+        <item>சாய்வான தடிமனான சம இடைவெளி</item>
+        <item>சம இடைவெளி செரிஃப்</item>
+        <item>தடிமனான சம இடைவெளி செரிஃப்</item>
+        <item>சாய்வான சம இடைவெளி செரிஃப்</item>
+        <item>சாய்வான தடிமனான சம இடைவெளி செரிஃப்</item>
         <item>Custom (in app data folder)</item>
     </string-array>
     <string-array name="settings_keyboard_icon_theme" tools:keep="@array/settings_keyboard_icon_theme">
-        <item>Default</item>
-        <item>Material</item>
-        <item>Apricot</item>
+        <item>இயல்புநிலை</item>
+        <item>மெட்டீரியல்</item>
+        <item>ஆப்ரிகாட்</item>
     </string-array>
     <string-array name="settings_keyboard_spacetype_select" tools:keep="@array/settings_keyboard_spacetype_select">
-        <item>Theme default</item>
-        <item>Selected language</item>
-        <item>Daisy</item>
-        <item>Space bar</item>
-        <item>Empty</item>
+        <item>இயல்புநிலை தீம்</item>
+        <item>தேர்ந்தெடுக்கப்பட்ட மொழி</item>
+        <item>டெய்சி</item>
+        <item>ஸ்பேஸ் பார்</item>
+        <item>வெறுமை</item>
     </string-array>
     <string-array name="settings_categories">
-        <item>General</item>
-        <item>Theming</item>
-        <item>Advanced Theming</item>
+        <item>பொது அமைப்புகள்</item>
+        <item>தீம் அமைப்புகள்</item>
+        <item>மேலும் துல்லிய தீம் அமைப்புகள்</item>
     </string-array>
     <string-array name="settings_key_bg_type" tools:keep="@array/settings_key_bg_type">
-        <item>Flat</item>
-        <item>Gradient</item>
+        <item>தட்டையான</item>
+        <item>கிரேடியன்ட்</item>
     </string-array>
     <string-array name="settings_key_gradient_orientation" tools:keep="@array/settings_key_gradient_orientation">
-        <item>Top → bottom</item>
-        <item>Bottom → top</item>
-        <item>Left → right</item>
-        <item>Right → left</item>
-        <item>Top left → bottom right</item>
-        <item>Top right → bottom left</item>
-        <item>Bottom left → top right</item>
-        <item>Bottom right → top left</item>
+        <item>மேலிருந்து கீழ்நோக்கி</item>
+        <item>கீழிருந்து மேல்நோக்கி</item>
+        <item>இடதிலிருந்து வலப்புறம்</item>
+        <item>வலதிலிருந்து இடப்புறம்</item>
+        <item>மேல் இடதிலிருந்து கீழ் வலப்புறம்</item>
+        <item>மேல் வடதிலிருந்து கீழ் இடப்புறம்</item>
+        <item>கீழ் இடதிலிருந்து மேல் வலப்புறம்</item>
+        <item>கீழ் வடதிலிருந்து மேல் இடப்புறம்</item>
     </string-array>
 </resources>
