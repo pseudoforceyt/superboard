@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Setup wizard resources -->
-    <string name="wizard_welcome">Welcome to %s setup wizard!</string>
-    <string name="wizard_nextbtn">Next</string>
-    <string name="wizard_enable">Enable keyboard from settings</string>
-    <string name="wizard_enablebtn">Open system settings</string>
-    <string name="wizard_select">Select %s as your default keyboard</string>
-    <string name="wizard_selectbtn">Open keyboard selection popup</string>
-    <string name="wizard_settings">Customize your keyboard</string>
-    <string name="wizard_settingsbtn">Open keyboard settings</string>
-    <string name="wizard_finish">Congratulations, you are completed setup wizard!</string>
-    <string name="wizard_finishbtn">Finish</string>
-    <string name="keyboard_theme_api_perm_label">FBoard User Theme API Access</string>
+    <string name="wizard_welcome">Bem-vindo ao assistente de configuração %s!</string>
+    <string name="wizard_nextbtn">Próximo</string>
+    <string name="wizard_enable">Habilitar o teclado a partir das configurações</string>
+    <string name="wizard_enablebtn">Abrir configurações do sistema</string>
+    <string name="wizard_select">Selecione %s como seu teclado padrão</string>
+    <string name="wizard_selectbtn">Abrir seleção de teclado pop-up</string>
+    <string name="wizard_settings">Personalize o seu teclado</string>
+    <string name="wizard_settingsbtn">Opções do teclado na tela</string>
+    <string name="wizard_finish">Parabéns, você foi concluído o assistente de configuração!</string>
+    <string name="wizard_finishbtn">Concluído</string>
+    <string name="keyboard_theme_api_perm_label">Acesso ao tema de usuário do FBoard</string>
     <!-- Settings resources -->
-    <string name="settings_activity">Settings</string>
-    <string name="settings_keyboard_bgimg" tools:keep="@string/settings_keyboard_bgimg">Keyboard background image</string>
-    <string name="settings_keyboard_show_popup" tools:keep="@string/settings_keyboard_show_popup">Show character while typing</string>
-    <string name="settings_colorize_navbar" tools:keep="@string/settings_colorize_navbar">Use transparent background at navbar</string>
+    <string name="settings_activity">Configurações</string>
+    <string name="settings_keyboard_bgimg" tools:keep="@string/settings_keyboard_bgimg">Imagem de fundo do teclado</string>
+    <string name="settings_keyboard_show_popup" tools:keep="@string/settings_keyboard_show_popup">Mostrar caractere enquanto digita</string>
+    <string name="settings_colorize_navbar" tools:keep="@string/settings_colorize_navbar">Usar fundo transparente na barra de navegação</string>
     <string name="settings_colorize_navbar_alt" tools:keep="@string/settings_colorize_navbar_alt">Apply color to navbar (Android 9+)</string>
     <string name="settings_disable_popup" tools:keep="@string/settings_disable_popup">Disable popup menu</string>
     <string name="settings_disable_repeat" tools:keep="@string/settings_disable_repeat">Disable character repeating on long press</string>
